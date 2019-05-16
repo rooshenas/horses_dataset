@@ -1,12 +1,14 @@
 {
     "about": {
-        "datasetName": "horses", 
-        "datasetSchemaVersion": "3.2.0", 
-        "description": "Katakis, G. Tsoumakas, I. Vlahavas, \"Multilabel Text Classification for Automated Tag Suggestion\", Proceedings of the ECML/PKDD 2008 Discovery Challenge, Antwerp, Belgium, 2008\"", 
-        "approximateSize": "", 
-        "digest": "", 
-        "citation": "Katakis, G. Tsoumakas, I. Vlahavas, \"Multilabel Text Classification for Automated Tag Suggestion\", Proceedings of the ECML/PKDD 2008 Discovery Challenge, Antwerp, Belgium, 2008\"", 
+        "description": "This dataset pertains to the experiments described in: J. Shotton, A. Blake, and R. Cipolla Contour-Based Learning for Object Detection ICCV 2005", 
+        "sourceURI": "http://www.msri.org/people/members/eranb/", 
+        "citation": "Borenstein, E., and S. Ullman. \"Weizmann horse database.\" 2005-01-19). http://www. msri. org/people/members/eranb (2017).", 
         "redacted": "false", 
+        "digest": "", 
+        "datasetName": "horses", 
+        "approximateSize": "24.4 MB", 
+        "datasetSchemaVersion": "3.2.0", 
+        "source": "Weizmann horse database", 
         "datasetVersion": "1.0", 
         "datasetID": "horses_dataset"
     }, 
